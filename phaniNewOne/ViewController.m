@@ -19,6 +19,8 @@
     
     NSLog(@"HI REpository");
     
+    NSLog(@"created one branch");
+    
 }
 
 - (void)didReceiveMemoryWarning {
